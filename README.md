@@ -9,7 +9,7 @@ this is my readding note
  - Embraces challenges.
 
 
-> My name is Veronika and like:
+My name is Veronika and like:
 ==========================
 0.Food
 1.Sleep
