@@ -20,7 +20,7 @@ My name is Veronika and like:
 
 --
 
-![](https://external-preview.redd.it/s6BGws7UiO2Ihts3KO2BzhvuFzVq4z1falf1cR_tQsk.png)
+![](https://cdn.pixabay.com/photo/2019/06/09/12/56/cat-4262034_1280.jpg)
 
 --
 
