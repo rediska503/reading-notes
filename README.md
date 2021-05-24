@@ -17,7 +17,9 @@ My name is Veronika and like:
 
 
 ***Therefore I'm a cat***
+
 Here is the link to my profile page 
+
 
 **rediska503.github.io/reading-notes/**
 
