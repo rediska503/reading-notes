@@ -2,7 +2,7 @@
 this is my readding note
 ## About myself
 
-###Growth Mindset
+### Growth Mindset
  To me skjfskghshg
  - jsfhvkdhfg
  - dfjkndfgj
