@@ -11,9 +11,9 @@ this is my readding note
 
 My name is Veronika and like:
 ==========================
-0.Food
+1.Food
 1.Sleep
-2.Play
+1.Play
 
 
 ***Therefore I'm a cat***
