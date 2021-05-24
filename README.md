@@ -20,7 +20,7 @@ My name is Veronika and like:
 
 --
 
-![](https://cdn.pixabay.com/photo/2019/06/09/12/56/cat-4262034_1280.jpg)
+![](https://akm-img-a-in.tosshub.com/indiatoday/images/story/201601/cat---facebook-and-storysize_647_011416045855.jpg)
 
 --
 
