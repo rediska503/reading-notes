@@ -9,8 +9,12 @@ this is my readding note
  - Embraces challenges.
 
 
-> My name is Veronika. Im a student.I like blah and blah
+> My name is Veronika. Im a student.I like:
 ==========================
+0.Food
+1.Sleep
+2.Play
+***Therefore I'm a cat***
 Here is the link to my profile page 
 ------------------
 
