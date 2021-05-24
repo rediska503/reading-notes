@@ -3,10 +3,10 @@ this is my readding note
 ## About myself
 
 ### Growth Mindset
- To me skjfskghshg
- - jsfhvkdhfg
- - dfjkndfgj
- - dkjfbvdkfjg
+ To me growth midset is:
+ - Views failure as an opportunity to learn.
+ - Believes failures are just temporary setbacks.
+ - Embraces challenges.
 
 
 
