@@ -1,9 +1,34 @@
 [back to main page](README.md)
 
 1. Here is a small portion of the code 
-    @media (prefers-color-scheme: dark)<style>:host {
-    --ntp-theme-shortcut-background-color: var(--google-grey-refresh-100);
-    --ntp-theme-text-color: white;}@media (min-width: 672px)<style>:host {--ntp-search-box-width: 561px;}@media (min-width: 560px)<stylehost {
-    --ntp-search-box-width: 449px;}
-2. GitHub dictionary
+    # h1 Heading 8-)
+     ## h2 Heading
+     ### h3 Heading
+      #### h4 Heading
+       ##### h5 Heading
+       ###### h6 Heading
+
+
+
+3. Some GitHub abbreviations   
+     mkdir- make a directory
+     touch- create a file
+     pwd- present working directory
+     -m - message
+3. Usefull coding tools and their names
+      [] brakets
+      () parentesis
+      {} curly braces
+      * asterisk
+      _ underscore
+      
+    
+   
+                                                                                                                                             
+                                                                                                                                             
+                                                                                                                                             
+                                                                                                                                             
+                                                                                                                                             
+
+                                                                                                                                       
     
