@@ -17,16 +17,28 @@
 
 
 3. Some GitHub abbreviations   
+
      mkdir- make a directory
+     
      touch- create a file
+     
      pwd- present working directory
+     
      -m - message
+     
 3. Usefull coding tools and their names
+
+
       [] brakets
+      
       () parentesis
+      
       {} curly braces
+      
       * asterisk
+     
       _ underscore
+      
       
     
    
