@@ -1,7 +1,7 @@
 # Reading notes for codefellows
 this is my readding note
 ## About myself
-
+Hey there I'm Veronika. Ukrainian immigrant with bachelor degree in "environmental protection" who decided to became Web developer. Been a housewife for awhile now, due to that I got myself into arts and crafts, love to paint and play music instruments. I started to code about 4 months ago and felt like its a fun and challenging thing to do. So me and my 64-bit OS are going to conquer the World one day)))
 ### Growth Mindset
  To me growth midset is:
  - Views failure as an opportunity to learn.
@@ -30,7 +30,8 @@ Here is the link to my profile page
 
 
 
-summaries
+# Table of contents
 [reading3](summary_of_topics.md)
+[reading4](structure.md)
 
 
