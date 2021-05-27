@@ -7,13 +7,13 @@
 JavaScript has the following types of operators:
 
 
->Assignment operators  [list](list.md)
+>Assignment operators  [list](lists/list.md)
 
->Comparison operators  [list](list1.md)
+>Comparison operators  [list](lists/list1.md)
 
->Arithmetic operators  [list](listm2.md)
+>Arithmetic operators  [list](lists/listm2.md)
 
->Bitwise operators  [list](listm3.md)
+>Bitwise operators  [list](lists/listm3.md)
 
 >Logical operators  [list](listm4.md)
 
