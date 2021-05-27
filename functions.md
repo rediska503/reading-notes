@@ -26,3 +26,39 @@ JavaScript has the following types of operators:
 >Unary operators  [list](listm8.md)
 
 >Relational operators  [list](listm9.md)
+
+## Functions
+
+>JavaScript Functions -  JavaScript function is a >block of code designed to perform a particular task.
+>A JavaScript function is executed when "something" >invokes it (calls it).
+
+>JavaScript Function Syntax
+A JavaScript function is defined with the function keyword, followed by a name, followed by parentheses ().
+
+>Function names can contain letters, digits, underscores, and dollar signs (same rules as variables).
+
+>The parentheses may include parameter names separated by commas:
+(parameter1, parameter2, ...)
+
+>The code to be executed, by the function, is placed inside curly brackets: {}
+
+
+## JavaScript Operators
+
+Operator	Description
+
++	Addition
+
+-	Subtraction
+
+*	Multiplication
+
+**	Exponentiation (ES2016)
+
+/	Division
+
+%	Modulus (Division Remainder)
+
+++	Increment
+
+--	Decrement
