@@ -34,4 +34,5 @@ Here is the link to my profile page
 [reading3](summary_of_topics.md)
 [reading4](structure.md)
 [reading5](css.md)
-
+[reading6](javascript.md)
+[reading7](functions.md)
