@@ -46,4 +46,4 @@ Logical OR assignment	x ||= y	x || (x = y)
 Logical nullish assignment	x ??= y	x ?? (x = y)
 
 
-[back](functions.md)
+[back](../functions.md)
